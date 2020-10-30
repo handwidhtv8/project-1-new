@@ -1,0 +1,95 @@
+body {
+    display: grid;
+    margin: 0px;
+    height: 100vh;
+}
+
+nav>div:last-child {
+    margin-left: auto;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: #0c93d1;
+    justify-content: flex-start;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px;
+    font-family: Helvetica;
+    color: honeydew;
+}
+
+a:hover {
+    color: #ffff41;
+}
+
+#btn {
+    padding: 8px;
+    background-color: #2593ee;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+}
+
+#btn:hover {
+    box-shadow: 0 2px 5px 0 grey;
+}
+
+#search {
+    padding: 6px;
+}
+
+.flex-ctr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 300px;
+    height: 150px;
+    border-radius: 12px;
+    margin: 10px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 12px 1px grey;
+    font-size: 11px;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+#fdata {
+    flex-wrap: wrap;
+}
+
+.card:hover {
+    box-shadow: 1px 1px 15px 1px #0f0f0f;
+}
+
+footer {
+    background-color: #0c93d1;
+    font-family: Helvetica;
+    color: honeydew;
+}
+
+.socials {
+    font-size: 40px;
+    list-style-type: none;
+}
+
+#cpy {
+    position: relative;
+    left: 139px;
+    bottom: 50px;
+}
+
+li {
+    display: inline-block;
+    position: relative;
+    top: 30px;
+    right: 100px;
+}
