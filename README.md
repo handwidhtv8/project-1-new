@@ -15,3 +15,8 @@
 ## Wireframe Layout:
 ![Plain Tours Application Wireframe](./images/project-1.png)
 ### [Click Here](https://handwidhtv8.github.io/project-1-new/) to see my application in *action!*
+
+##Future Enhancements
+- Visuals of locations for users
+- more styling of cards 
+- expansion of data
