@@ -14,5 +14,4 @@
 - Gives information on what tour experiences should be like!
 ## Wireframe Layout:
 ![Plain Tours Application Wireframe](./images/project-1.png)
-### [Click Here](https://handwidhtv8.github.io/project-1.0/) to see my application in *action!*
-
+### [Click Here](https://handwidhtv8.github.io/project-1-new/) to see my application in *action!*
